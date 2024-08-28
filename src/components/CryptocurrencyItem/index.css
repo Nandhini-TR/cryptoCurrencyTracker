@@ -1,0 +1,27 @@
+.currency-item-cointype-container {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-container {
+  display: flex;
+}
+
+.logo-image {
+  height: 30px;
+  width: 30px;
+}
+
+.currency-item-cointype-heading {
+  margin-left: 20px;
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.currency-item-usd-euro-container {
+  display: flex;
+  justify-content: center;
+}
